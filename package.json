@@ -1,0 +1,26 @@
+{
+	"name": "vbslang",
+	"displayName": "vbscript-language",
+	"description": "VBScript language support",
+	"version": "0.0.1",
+	"publisher": "luggage66",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Languages"
+	],
+	"contributes": {
+		"languages": [{
+			"id": "vbscript",
+			"aliases": ["VBScript", "vbscript"],
+			"extensions": [".vbs",".vbe",".wsf",".wsc",".acm",".acr",".acf"],
+			"configuration": "./vbscript.configuration.json"
+		}],
+		"grammars": [{
+			"language": "vbscript",
+			"scopeName": "source.vbs",
+			"path": "./syntaxes/vbscript.tmLanguage"
+		}]
+	}
+}
