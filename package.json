@@ -20,7 +20,7 @@
 		"grammars": [{
 			"language": "vbscript",
 			"scopeName": "source.vbs",
-			"path": "./syntaxes/vbscript.tmLanguage"
+			"path": "./syntaxes/vbscript.json"
 		}]
 	}
 }
