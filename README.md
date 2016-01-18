@@ -1,15 +1,6 @@
-# README
-## This is the README for your extension "vbslang" 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# VBScript Langauge Support
 
-.tmLanguage file taken from: https://github.com/SublimeText/VBScript which had no license. If this is yours and you disapprove of this use, just tell me.
+This package provides syntax highlighting only. It is nothing more than an import of a .tmLanguage file. Feel free to contribute more.
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+.tmLanguage file taken from: https://github.com/SublimeText/VBScript and/or https://github.com/textmate/asp.vb.net.tmbundle which had no license that I saw. If this is yours and you disapprove of this use, just tell me.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-** Enjoy!**
